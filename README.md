@@ -5,21 +5,21 @@
 <div align="center">
 
 <a href="https://github.com/varunjain2409/portfolio1"><img src="https://img.shields.io/badge/GitHub-varunjain2409%2Fportfolio1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/varunjain2409/portfolio1/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
-<a href="https://github.com/varunjain2409/portfolio1/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
-<a href="https://github.com/varunjain2409/portfolio1/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
-<a href="https://github.com/varunjain2409/portfolio1/issues"><img src="https://img.shields.io/github/issues/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>
-<a href="https://github.com/varunjain2409/portfolio1/graphs/contributors"><img src="https://img.shields.io/github/contributors/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Contributors"/></a>
-<img src="https://img.shields.io/github/repo-size/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Size"/>
-<img src="https://img.shields.io/github/languages/top/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
+<a href="https://github.com/varunjain2409/portfolio1/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/varunjain2409/portfolio1/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
+<a href="https://github.com/varunjain2409/portfolio1/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
+<a href="https://github.com/varunjain2409/portfolio1/issues"><img src="https://img.shields.io/github/issues/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Issues"/></a>
+<a href="https://github.com/varunjain2409/portfolio1/graphs/contributors"><img src="https://img.shields.io/github/contributors/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Contributors"/></a>
+<img src="https://img.shields.io/github/repo-size/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Size"/>
+<img src="https://img.shields.io/github/languages/top/varunjain2409/portfolio1?style=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
 <img src="https://img.shields.io/badge/License-MIT-00C2A8?style=for-the-badge&logo=open%20source%20initiative&logoColor=white" alt="License"/>
 <a href="https://varunjain2409.github.io/portfolio1/"><img src="https://img.shields.io/badge/Live%20Site-Visit-00C2A8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live"/></a>
 
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="HTML5-E34F26?logo=html5"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="CSS3-1572B6?logo=css3"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="JavaScript-F7DF1E?logo=javascript"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="GitHub%20Pages-2088FF?logo=githubpages"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="Responsive-38B2FF?logo=googlechrome"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5-E34F26?logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3-1572B6?logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript-F7DF1E?logo=javascript"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-2088FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub%20Pages-2088FF?logo=githubpages"/>
+<img src="https://img.shields.io/badge/Responsive-38B2FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive-38B2FF?logo=googlechrome"/>
 
 </div>
 
